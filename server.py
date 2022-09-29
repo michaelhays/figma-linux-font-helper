@@ -1,8 +1,3 @@
-# Figma Font Helper
-# Maintainer Vin <github.com/tryvin>
-# Copyright 2019 Vin
-# MIT License
-
 import io
 import os
 import sys
